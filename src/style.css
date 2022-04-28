@@ -7,4 +7,6 @@
   margin-bottom: 20px;
 }
 
-
+.last {
+  margin-bottom: 0;
+}
